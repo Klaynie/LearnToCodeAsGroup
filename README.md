@@ -14,7 +14,7 @@ The Exercise Notebooks are intended as a playground for people who are unfamilia
 Writing your first program can be done in 3 easy steps.
 
 ### Step 1
-![Step-1](https://i.imgur.com/3z6flkQ.png)
+![Step-1](https://i.imgur.com/Ocb0ZTd.png)
 Browse to a notebook in either the Exercises or Lessons folder
 
 ### Step 2
@@ -22,7 +22,7 @@ Browse to a notebook in either the Exercises or Lessons folder
 Open the notebook
 
 ### Step 3
-![Step-3](https://i.imgur.com/Ocb0ZTd.png)
+![Step-3](https://i.imgur.com/3z6flkQ.png)
 Run your code
 
 ## Acknowledgements
