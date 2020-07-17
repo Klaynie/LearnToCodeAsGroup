@@ -37,4 +37,5 @@ the environment, and our notebook uses it to plot a figure.
 
 ## Acknowledgements
 
-The sessions and exercises are taken mainly from https://greenteapress.com/wp/think-python-2e/ with some of the notes and remarks added by advice taken from http://www.cleancoder.com/products
+The sessions and exercises are intended to go alongside the book "Think Python" from Allen Downey. You can access the book on https://greenteapress.com/wp/think-python-2e/
+Additionally some of the notes and remarks are added by advice taken from watching/reading Uncle Bob Martin http://www.cleancoder.com/products
