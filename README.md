@@ -34,3 +34,7 @@ but you also get a snapshot of your environment.
 
 In this example we include the library `seaborn` which will be installed in
 the environment, and our notebook uses it to plot a figure.
+
+## Acknowledgements
+
+The sessions and exercises are taken mainly from https://greenteapress.com/wp/think-python-2e/ with some of the notes and remarks added by advice taken from http://www.cleancoder.com/products
