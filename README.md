@@ -11,4 +11,5 @@ https://mybinder.org/v2/gh/Klaynie/LearnToCodeAsGroup/master
 ## Acknowledgements
 
 The sessions and exercises are intended to go alongside the book "Think Python" from Allen Downey. You can access the book on https://greenteapress.com/wp/think-python-2e/
+
 Additional notes and remarks are added by advice taken from watching/reading Uncle Bob Martin http://www.cleancoder.com/products
