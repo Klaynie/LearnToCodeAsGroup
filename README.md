@@ -8,6 +8,23 @@ Access this Binder at the following URL
 
 https://mybinder.org/v2/gh/Klaynie/LearnToCodeAsGroup/master
 
+## Introduction
+
+The Exercise Notebooks are intended as a playground for people who are unfamiliar with coding. Solutions are provided for all exercises.
+Writing your first program can be done in 3 easy steps.
+
+### Step 1
+![Step-1](https://i.imgur.com/3z6flkQ.png)
+Browse to a notebook in either the Exercises or Lessons folder
+
+### Step 2
+![Step-2](https://i.imgur.com/3rqfbMS.png)
+Open the notebook
+
+### Step 3
+![Step-3](https://i.imgur.com/Ocb0ZTd.png)
+Run your code
+
 ## Acknowledgements
 
 The sessions and exercises are intended to go alongside the book "Think Python" from Allen Downey. You can access the book on https://greenteapress.com/wp/think-python-2e/
