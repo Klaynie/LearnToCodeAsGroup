@@ -27,6 +27,8 @@ Run your code
 
 ## Acknowledgements
 
-The sessions and exercises are intended to go alongside the book "Think Python" from Allen Downey. You can access the book on https://greenteapress.com/wp/think-python-2e/
+The lessons are intended to be a "Cheat Sheet" of the book "Think Python" from Allen Downey. For comperhensive explanation of the topics please check out his work. You can access the book on the website https://greenteapress.com/wp/think-python-2e/
 
-Additional notes and remarks are added by advice taken from watching/reading Uncle Bob Martin http://www.cleancoder.com/products
+Additional notes and remarks are added by advice taken from discussions with my friends and colleagues and watching/reading <a href="http://www.cleancoder.com/products">Uncle Bob Martin</a>.
+
+Special shout out goes to my friends <a href="https://github.com/tfelix">tfelix</a> and <a href="https://github.com/Feliys">Feliys</a>, who are passionate coders with a big heart for all things programming. They took many hours out of their lives to help me getting started with progamming. Without them I would not be where I am today.
