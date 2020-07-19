@@ -25,8 +25,29 @@ Open the notebook
 ![Step-3](https://i.imgur.com/3z6flkQ.png)
 Run your code
 
+## Warning
+
+Before working on the exercise be warned that the changes are not saved in the cloud. This is part of the trade off to have clean, fresh environments in the browser every time you access the mybinder link.
+
+## Saving your work
+
+To save your work there are two possibilities. The first version is recommended for students who intend to only work in the Jupyter Notebooks themselves and do not need an IDE (e.g. Data Scientists). The second version is aimed at more sophisticated students (e.g. Programmers).
+
+### Saving your work - Option 1
+
+The first option to save your work is by downloading the files manually on your local machine. You can download the files by choosing the 'File' -> 'Download as' - 'Notebook (.ipynb)' option from the menu as shown below
+![Saving-Option-1](https://i.imgur.com/628jNFF.png)
+
+### Saving your work - Option 2
+
+The second option to save your work is to use <a href="https://code.visualstudio.com/">VS Code</a> and create a clone of this repository. I will leave it to the student as a learning exercise to acquire the knowledge to install and configure the necessary tools.
+
+![Saving-Option-2](https://i.imgur.com/ujoVfnv.png)
+
 ## Acknowledgements
 
-The sessions and exercises are intended to go alongside the book "Think Python" from Allen Downey. You can access the book on https://greenteapress.com/wp/think-python-2e/
+The lessons are intended to be a "Cheat Sheet" of the book "Think Python" from Allen Downey. For comperhensive explanation of the topics please check out his work. You can access the book on the website https://greenteapress.com/wp/think-python-2e/
 
-Additional notes and remarks are added by advice taken from watching/reading Uncle Bob Martin http://www.cleancoder.com/products
+Additional notes and remarks are added by advice taken from discussions with my friends and colleagues and watching/reading <a href="http://www.cleancoder.com/products">Uncle Bob Martin</a>.
+
+Special shout out goes to my friends <a href="https://github.com/tfelix">tfelix</a> and <a href="https://github.com/Feliys">Feliys</a>, who are passionate coders with a big heart for all things programming. They took many hours out of their lives to help me getting started with progamming. Without them I would not be where I am today.
