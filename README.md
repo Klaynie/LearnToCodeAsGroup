@@ -23,7 +23,7 @@ Open the notebook
 
 ### Step 3
 ![Step-3](https://i.imgur.com/3z6flkQ.png)
-Run your code
+Run your code by pressing 'Strg + Enter' in a cell.
 
 ## Warning
 
@@ -44,10 +44,16 @@ The second option to save your work is to use <a href="https://code.visualstudio
 
 ![Saving-Option-2](https://i.imgur.com/ujoVfnv.png)
 
+## Troubleshooting
+
+Sometimes the mybinder homepage will not start nice immediately. In case the page does not load within 10-15 seconds, please hit 'F5' to refresh the page. If the issue persists please reach out to me.
+
 ## Acknowledgements
 
 The lessons are intended to be a "Cheat Sheet" of the book "Think Python" from Allen Downey. For comperhensive explanation of the topics please check out his work. You can access the book on the website https://greenteapress.com/wp/think-python-2e/
 
 Additional notes and remarks are added by advice taken from discussions with my friends and colleagues and watching/reading <a href="http://www.cleancoder.com/products">Uncle Bob Martin</a>.
 
-Special shout out goes to my friends <a href="https://github.com/tfelix">tfelix</a> and <a href="https://github.com/Feliys">Feliys</a>, who are passionate coders with a big heart for all things programming. They took many hours out of their lives to help me getting started with progamming. Without them I would not be where I am today.
+## Special Thanks
+
+Special shout out goes to my friends <a href="https://github.com/tfelix">tfelix</a>, <a href="https://github.com/domiimob">domiimob</a> and <a href="https://github.com/Feliys">Feliys</a>, who are passionate coders with a big heart for all things programming. They took many hours out of their lives to help me getting started with progamming and gave me valuable feedback along the way. Without them I would not be where I am today.
