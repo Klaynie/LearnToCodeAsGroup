@@ -40,9 +40,16 @@ The first option to save your work is by downloading the files manually on your 
 
 ### Saving your work - Option 2
 
-The second option to save your work is to use <a href="https://code.visualstudio.com/">VS Code</a> and create a clone of this repository. I will leave it to the student as a learning exercise to acquire the knowledge to install and configure the necessary tools.
+The second option to save your work is to use <a href="https://code.visualstudio.com/">VS Code</a> and create a <a href="https://code.visualstudio.com/Docs/editor/versioncontrol#_cloning-a-repository">clone of this repository</a>. See below section taken from the VS Code documentation for a brief explanation on how to clone a repository:
 
 ![Saving-Option-2](https://i.imgur.com/ujoVfnv.png)
+
+> You can clone a Git repository with the Git: Clone command in the Command Palette (`Ctrl+Shift+P`). You will be asked for the URL of the remote repository (for example on <a href="https://github.com/">GitHub</a>) and the parent directory under which to put the local repository.
+>
+> For a GitHub repository, you would find the URL from the GitHub Clone or download dialog.
+> ![Github-Repository](https://code.visualstudio.com/assets/docs/editor/versioncontrol/GitHub-clone-dialog.png)
+> You would then paste that URL into the Git: Clone prompt.
+> ![Command-Palette](https://code.visualstudio.com/assets/docs/editor/versioncontrol/set-repo-URL.png)
 
 ## Troubleshooting
 
@@ -50,10 +57,10 @@ Sometimes the mybinder homepage will not start nice immediately. In case the pag
 
 ## Acknowledgements
 
-The lessons are intended to be a "Cheat Sheet" of the book "Think Python" from Allen Downey. For comperhensive explanation of the topics please check out his work. You can access the book on the website https://greenteapress.com/wp/think-python-2e/
+The lessons are intended to be a "Cheat Sheet" of the book "Think Python" from Allen Downey. For comprehensive explanation of the topics please check out his work. You can access the book on the website https://greenteapress.com/wp/think-python-2e/
 
 Additional notes and remarks are added by advice taken from discussions with my friends and colleagues and watching/reading <a href="http://www.cleancoder.com/products">Uncle Bob Martin</a>.
 
 ## Special Thanks
 
-Special shout out goes to my friends <a href="https://github.com/tfelix">tfelix</a>, <a href="https://github.com/domiimob">domiimob</a> and <a href="https://github.com/Feliys">Feliys</a>, who are passionate coders with a big heart for all things programming. They took many hours out of their lives to help me getting started with progamming and gave me valuable feedback along the way. Without them I would not be where I am today.
+Special shout out goes to my friends <a href="https://github.com/tfelix">tfelix</a>, <a href="https://github.com/domiimob">domiimob</a> and <a href="https://github.com/Feliys">Feliys</a>, who are passionate coders with a big heart for all things programming. They took many hours out of their lives to help me getting started with programming and gave me valuable feedback along the way. Without them I would not be where I am today.
