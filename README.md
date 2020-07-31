@@ -53,7 +53,7 @@ The second option to save your work is to use <a href="https://code.visualstudio
 
 ## Troubleshooting
 
-Sometimes the mybinder homepage will not start nice immediately. In case the page does not load within 10-15 seconds, please hit 'F5' to refresh the page. If the issue persists please reach out to me.
+Sometimes the mybinder homepage will not start correctly. In case the page does not load within 10-15 seconds, please hit 'F5' to refresh the page. If the issue persists please reach out to me.
 
 ## Acknowledgements
 
