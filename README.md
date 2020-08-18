@@ -1,6 +1,6 @@
 # Providing an Environment for Students to learn the Basics of Python and Computer Science
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Klaynie/LearnToCodeAsGroup/master)
 
 Jupyter Notebooks is a great way to visualize the concepts of code. It is a very good fit to teach others the basics of coding by directly showing the results, instead of discussing theoretical behaviors. Binder provides a solution to create a Jupyter Notebook environment from scratch for students to play around.
 
